@@ -3,7 +3,7 @@ color changing text via button
 ## Prework
 
 ### App Description
-`TODO://` 'Color Changing Button' allows users to change the "Hello from Uma!" text to orange when pressed.
+`TODO://` 'Change text color' allows users to change the "Hello from Uma!" text to orange when pressed.
 
 ### App Walk-though
 `TODO://` 
