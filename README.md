@@ -6,9 +6,10 @@ color changing text via button
 `TODO://` 'Color Changing Button' allows users to change the "Hello" text to orange when pressed.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+`TODO://` 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/92660909/180925716-57b2f578-a64d-455b-914e-2ced43b49f09.gif)
+ " width=200><br>
 
 
 
