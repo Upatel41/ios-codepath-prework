@@ -8,8 +8,8 @@ color changing text via button
 ### App Walk-though
 `TODO://` 
 
-<img src="![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/92660909/180925716-57b2f578-a64d-455b-914e-2ced43b49f09.gif)
- " width=200><br>
+![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/92660909/180925945-3cc9c72e-41e3-4cb0-87b6-7ba7cc7aab1c.gif)
+
 
 
 
